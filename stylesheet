@@ -1,0 +1,20 @@
+body{
+    background-color: darkcyan;
+    padding-left: 250px;
+}
+#leftbar{
+    background-color: silver;
+    position: fixed;
+    left:-2;
+    top: -2;
+    width: 225px;
+    height: 100%;
+    border: 2px solid black;
+    overflow: scroll;
+}
+.youtubelinks{
+    font-family: "chewy";
+    text-shadow: 2px 2px black;
+    color: white;
+    text-decoration: underline;
+}
